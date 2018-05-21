@@ -13,6 +13,8 @@ Then run it by:
 ```
 node webserver.js
 ```
+Find the raspberry pi IP from your router, or (even better) use a static IP for your RPi.
+Access the server by opening a browser and using the internal IP as a link.
 
 Feel free to take a look at my code, I am not that expierenced at node.
 Looking forward to get feedback.
