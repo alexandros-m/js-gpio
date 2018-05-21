@@ -18,7 +18,7 @@ node webserver.js
 
 Find the Raspberry Pi IP from your router, or (even better) use a static IP for your Raspberry Pi.
 Access the server by opening a browser and using the internal IP as a link.
-* Make sure you are not using another webserver on port 80 of your Raspberry Pi
+__Make sure you are not using another webserver on port 80 of your Raspberry Pi__
 
 Feel free to take a look at my code, I am not that expierenced at node.
 Looking forward to get feedback.
